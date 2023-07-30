@@ -1,0 +1,2 @@
+<button onclick="delete_one('<?php echo e($link); ?>')" class="btn btn-outline-danger"><?php echo e(__('words.delete')); ?></button> 
+<?php /**PATH /home/kafoosaappsjanna/lara/resources/views/components/buttons/but_delete_one.blade.php ENDPATH**/ ?>

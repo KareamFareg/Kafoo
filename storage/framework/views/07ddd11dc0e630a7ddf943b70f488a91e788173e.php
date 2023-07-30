@@ -1,0 +1,2 @@
+<a href="<?php echo e($link); ?>" type="button" class="btn btn-outline-success"><i class="flaticon2-edit"></i><?php echo e(__('words.edit')); ?></a>
+<?php /**PATH /home/kafoosaappsjanna/lara/resources/views/components/buttons/but_edit.blade.php ENDPATH**/ ?>

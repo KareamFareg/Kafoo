@@ -1,0 +1,2 @@
+<a href="<?php echo e($link); ?>" type="button" class="btn btn-outline-primary"><?php echo e($title); ?></a>
+<?php /**PATH /home/kafoosaappsjanna/lara/resources/views/components/buttons/but_link.blade.php ENDPATH**/ ?>

@@ -1,0 +1,2 @@
+<button type="submit" class="btn btn-outline-success"><i class="la la-check"></i><?php echo e(__('words.update')); ?></button>
+<?php /**PATH /home/kafoosaappsjanna/lara/resources/views/components/buttons/but_update.blade.php ENDPATH**/ ?>

@@ -1,0 +1,2 @@
+<button type="submit" class="btn btn-primary"><i class="la la-check"></i><?php echo e(__('words.submit')); ?></button>
+<?php /**PATH /home/kafoosaappsjanna/lara/resources/views/components/buttons/but_submit.blade.php ENDPATH**/ ?>
